@@ -6,7 +6,7 @@ const (
 	MAIN_URL              = "http://seed1.poly.network:20336"
 	MAIN_BOOKEEPER_HEIGHT = uint64(30321214)
 	TEST_URL              = "http://beta1.poly.network:20336"
-	TEST_BOOKEEPER_HEIGHT = uint64(30321214)
+	TEST_BOOKEEPER_HEIGHT = uint64(58899233)
 )
 
 func HexStringReverse(value string) string {
